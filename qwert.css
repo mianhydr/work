@@ -1,0 +1,44 @@
+body
+{
+    background-color: purple;
+}
+fieldset
+{
+    margin-top: 100px;
+    margin-left: 700px;
+    margin-right: 200px;
+    background-color: white;
+    border: 2px white solid;
+}
+legend
+{
+padding: 5px;
+color: white;
+background-color:rgb(39, 194, 194);
+border-radius: 3px;
+border-style: groove rgb(39, 194, 194);
+}
+#id1
+{
+    color: white;
+    background-color: rgb(39, 194, 194);
+    border-color: rgb(39, 194, 194);
+    border-style: none;
+    padding-top: 5px;
+    padding-left: 30PX;
+    padding-right: 30px;
+    padding-bottom: 5px;
+    border-radius: 3px;
+}
+.c1
+{
+    border-color:rgb(39, 194, 194);
+    border-style: solid;
+    margin-left: 90px;
+}
+label
+{
+    margin-left: 90px;
+    
+}
+

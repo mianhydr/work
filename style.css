@@ -1,0 +1,23 @@
+#trans
+{
+    height: 300px;
+    width: 300px;
+    background-color: blueviolet;
+    transition: all;
+    transition-duration: 10s;
+    transition-delay: 10ms;
+    
+}
+#trans:hover
+{
+    width: 1000px;
+    height: 500px;
+    border-radius: 50%;
+}
+#trans2:hover
+{
+    width: 500px;
+    height: 500px;
+    padding-top: 200px;
+    padding-left: 200px;
+}
